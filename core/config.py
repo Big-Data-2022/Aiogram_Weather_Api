@@ -1,6 +1,6 @@
 # __________________________Security Bot
 # Token from telegram bot - Токен телеграм бота
-TOKEN = "5915542757:AAFszqR6mMZ0AeSdwHJrlgXkazQKLaRVWmc"
+TOKEN = "Token For Telegram Bot"
 
 # User identification number - Айди пользователя   
 ADMIN_ID_MARSELLE = "1303424158"     
